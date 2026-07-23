@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NERRS Water Quality Analysis</title>
+    
+    <!-- Google Fonts for modern typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+    <div id="map"></div>
+    
+    <!-- Favorites Panel -->
+    <div id="favorites-panel">
+        <h2>Saved Sites</h2>
+        <ul id="favorites-list">
+            <li class="empty-msg">No saved sites yet.</li>
+        </ul>
+    </div>
+    
+    <div id="sidebar" class="hidden">
+        <button id="close-btn">&times;</button>
+        <div id="sidebar-content">
+            <h1 id="site-title">Select a Site</h1>
+            <p id="site-subtitle">Click on any marker on the map to view the pH limits analysis for that station or state.</p>
+            <div class="action-buttons" style="margin-bottom: 20px; display: flex; gap: 10px;">
+                <button id="favorite-btn" class="fav-btn" style="display: none; margin-bottom: 0;">★ Save to Favorites</button>
+                <button id="reject-btn" class="reject-btn" style="display: none; margin-bottom: 0;">✖ Not Useful</button>
+            </div>
+            <div id="graphs-container" style="display: none;">
+                <div class="graph-card">
+                    <div class="graph-header">
+                        <h3>Annual Trend</h3>
+                        <button class="graph-star-btn" data-graph="trend" title="Star this graph">★</button>
+                    </div>
+                    <img id="trend-graph" src="" alt="Trend Graph">
+                    <div id="trend-stats" style="margin-top: 10px; font-size: 0.9rem; color: #a0aec0; text-align: center; font-family: monospace;"></div>
+                </div>
+                
+                <div class="graph-card">
+                    <div class="graph-header">
+                        <h3>pH Distribution</h3>
+                        <button class="graph-star-btn" data-graph="box" title="Star this graph">★</button>
+                    </div>
+                    <img id="box-graph" src="" alt="Box Plot">
+                </div>
+                
+                <div class="graph-card">
+                    <div class="graph-header">
+                        <h3>% Below 7.8</h3>
+                        <button class="graph-star-btn" data-graph="bar" title="Star this graph">★</button>
+                    </div>
+                    <img id="bar-graph" src="" alt="Column Chart">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    
+    <!-- App Logic -->
+    <script src="app.js?v=13"></script>
+</body>
+</html>

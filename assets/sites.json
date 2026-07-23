@@ -1,0 +1,538 @@
+{
+  "bayview channel": {
+    "lat": 48.496139,
+    "lng": -122.502114,
+    "state": "WA",
+    "equation": "y = -0.0029x + 13.78",
+    "r2": "R\u00b2 = 0.1351",
+    "p": "p = 0.0385"
+  },
+  "washington overall": {
+    "lat": 48.55,
+    "lng": -122.48,
+    "state": "WA",
+    "equation": "y = -0.0057x + 19.40",
+    "r2": "R\u00b2 = 0.4102",
+    "p": "p = 0.0013"
+  },
+  "gong surface": {
+    "lat": 48.5575,
+    "lng": -122.5725,
+    "state": "WA",
+    "equation": "y = -0.0065x + 21.04",
+    "r2": "R\u00b2 = 0.3081",
+    "p": "p = 0.0073"
+  },
+  "ploeg channel": {
+    "lat": 48.556322,
+    "lng": -122.530894,
+    "state": "WA",
+    "equation": "y = -0.0064x + 20.88",
+    "r2": "R\u00b2 = 0.5551",
+    "p": "p < 0.0001"
+  },
+  "cabretta creek": {
+    "lat": 31.4437,
+    "lng": -81.2399,
+    "state": "GA",
+    "equation": "y = -0.0048x + 17.57",
+    "r2": "R\u00b2 = 0.1597",
+    "p": "p = 0.0589"
+  },
+  "dean creek": {
+    "lat": 31.3896,
+    "lng": -81.2789,
+    "state": "GA",
+    "equation": "y = -0.0070x + 21.64",
+    "r2": "R\u00b2 = 0.2395",
+    "p": "p = 0.0178"
+  },
+  "lower duplin": {
+    "lat": 31.417942,
+    "lng": -81.296047,
+    "state": "GA",
+    "equation": "y = -0.0013x + 10.39",
+    "r2": "R\u00b2 = 0.0104",
+    "p": "p = 0.6053"
+  },
+  "georgia overall": {
+    "lat": 31.43,
+    "lng": -81.36,
+    "state": "GA",
+    "equation": "y = -0.0047x + 17.04",
+    "r2": "R\u00b2 = 0.1980",
+    "p": "p = 0.0334"
+  },
+  "hunt dock": {
+    "lat": 31.4786,
+    "lng": -81.2731,
+    "state": "GA",
+    "equation": "y = -0.0002x + 7.84",
+    "r2": "R\u00b2 = 0.0004",
+    "p": "p = 0.9174"
+  },
+  "clambank": {
+    "lat": 33.3338636,
+    "lng": -79.1930411,
+    "state": "SC",
+    "equation": "y = -0.0032x + 14.21",
+    "r2": "R\u00b2 = 0.2926",
+    "p": "p = 0.0043"
+  },
+  "mosquito creek": {
+    "lat": 32.5558,
+    "lng": -80.438,
+    "state": "SC",
+    "equation": "y = -0.0007x + 8.87",
+    "r2": "R\u00b2 = 0.0020",
+    "p": "p = 0.8329"
+  },
+  "south carolina overall": {
+    "lat": 33.34,
+    "lng": -79.18,
+    "state": "SC",
+    "equation": "y = -0.0030x + 13.58",
+    "r2": "R\u00b2 = 0.1185",
+    "p": "p = 0.0995"
+  },
+  "oyster landing": {
+    "lat": 33.3493511,
+    "lng": -79.1888819,
+    "state": "SC",
+    "equation": "y = -0.0017x + 11.10",
+    "r2": "R\u00b2 = 0.0504",
+    "p": "p = 0.2248"
+  },
+  "thousand acre": {
+    "lat": 33.2991461,
+    "lng": -79.2560564,
+    "state": "SC",
+    "equation": "y = -0.0033x + 13.72",
+    "r2": "R\u00b2 = 0.0351",
+    "p": "p = 0.3048"
+  },
+  "st pierre": {
+    "lat": 32.528,
+    "lng": -80.36144,
+    "state": "SC",
+    "equation": "y = 0.0027x + 2.31",
+    "r2": "R\u00b2 = 0.0477",
+    "p": "p = 0.2298"
+  },
+  "fishing creek": {
+    "lat": 32.63593,
+    "lng": -80.36556,
+    "state": "SC",
+    "equation": "y = -0.0030x + 13.07",
+    "r2": "R\u00b2 = 0.0414",
+    "p": "p = 0.3294"
+  },
+  "debidue creek": {
+    "lat": 33.3601486,
+    "lng": -79.1674572,
+    "state": "SC",
+    "equation": "y = -0.0022x + 12.17",
+    "r2": "R\u00b2 = 0.0366",
+    "p": "p = 0.3297"
+  },
+  "childs river": {
+    "lat": 41.58013,
+    "lng": -70.53052,
+    "state": "MA",
+    "equation": "y = -0.0062x + 20.21",
+    "r2": "R\u00b2 = 0.0711",
+    "p": "p = 0.2077"
+  },
+  "sage lot": {
+    "lat": 41.5542,
+    "lng": -70.5084,
+    "state": "MA",
+    "equation": "y = -0.0110x + 30.02",
+    "r2": "R\u00b2 = 0.5196",
+    "p": "p < 0.0001"
+  },
+  "menauhant": {
+    "lat": 41.5526,
+    "lng": -70.5485,
+    "state": "MA",
+    "equation": "y = -0.0005x + 8.92",
+    "r2": "R\u00b2 = 0.0012",
+    "p": "p = 0.8685"
+  },
+  "massachusetts overall": {
+    "lat": 41.56,
+    "lng": -70.52,
+    "state": "MA",
+    "equation": "y = -0.0065x + 21.04",
+    "r2": "R\u00b2 = 0.2463",
+    "p": "p = 0.0160"
+  },
+  "metoxit point": {
+    "lat": 41.5689,
+    "lng": -70.5216,
+    "state": "MA",
+    "equation": "y = -0.0044x + 16.80",
+    "r2": "R\u00b2 = 0.1850",
+    "p": "p = 0.0223"
+  },
+  "pumpkin bay": {
+    "lat": 25.9141,
+    "lng": -81.5404,
+    "state": "FL",
+    "equation": "y = 0.0067x - 5.62",
+    "r2": "R\u00b2 = 0.1616",
+    "p": "p = 0.2204"
+  },
+  "fakahatchee bay": {
+    "lat": 25.8922,
+    "lng": -81.477,
+    "state": "FL",
+    "equation": "y = 0.0004x + 6.92",
+    "r2": "R\u00b2 = 0.0047",
+    "p": "p = 0.7441"
+  },
+  "lower henderson creek": {
+    "lat": 26.02749,
+    "lng": -81.73361,
+    "state": "FL",
+    "equation": "y = 0.0034x + 1.08",
+    "r2": "R\u00b2 = 0.1846",
+    "p": "p = 0.0285"
+  },
+  "dry bar": {
+    "lat": 29.6747,
+    "lng": -85.0583,
+    "state": "FL",
+    "equation": "y = -0.0028x + 13.66",
+    "r2": "R\u00b2 = 0.0502",
+    "p": "p = 0.2816"
+  },
+  "faka union bay": {
+    "lat": 25.9005,
+    "lng": -81.5159,
+    "state": "FL",
+    "equation": "y = 0.0003x + 7.12",
+    "r2": "R\u00b2 = 0.0012",
+    "p": "p = 0.8668"
+  },
+  "florida overall": {
+    "lat": 29.7,
+    "lng": -85.0,
+    "state": "FL",
+    "equation": "y = -0.0004x + 8.52",
+    "r2": "R\u00b2 = 0.0035",
+    "p": "p = 0.7798"
+  },
+  "fort matanzas": {
+    "lat": 29.737041,
+    "lng": -81.245953,
+    "state": "FL",
+    "equation": "y = -0.0029x + 13.76",
+    "r2": "R\u00b2 = 0.2067",
+    "p": "p = 0.0196"
+  },
+  "pellicer creek": {
+    "lat": 29.667071,
+    "lng": -81.257403,
+    "state": "FL",
+    "equation": "y = 0.0028x + 1.74",
+    "r2": "R\u00b2 = 0.0170",
+    "p": "p = 0.5343"
+  },
+  "cat point": {
+    "lat": 29.7021,
+    "lng": -84.8802,
+    "state": "FL",
+    "equation": "y = 0.0006x + 6.87",
+    "r2": "R\u00b2 = 0.0030",
+    "p": "p = 0.7945"
+  },
+  "east bay surface": {
+    "lat": 29.7858,
+    "lng": -84.8752,
+    "state": "FL",
+    "equation": "y = -0.0030x + 13.59",
+    "r2": "R\u00b2 = 0.0264",
+    "p": "p = 0.3739"
+  },
+  "middle blackwater river": {
+    "lat": 25.9343,
+    "lng": -81.5946,
+    "state": "FL",
+    "equation": "y = -0.0009x + 9.53",
+    "r2": "R\u00b2 = 0.0125",
+    "p": "p = 0.5782"
+  },
+  "pine island": {
+    "lat": 30.050857,
+    "lng": -81.367465,
+    "state": "FL",
+    "equation": "y = -0.0030x + 13.59",
+    "r2": "R\u00b2 = 0.1881",
+    "p": "p = 0.0269"
+  },
+  "san sebastian": {
+    "lat": 29.868851,
+    "lng": -81.307428,
+    "state": "FL",
+    "equation": "y = 0.0002x + 7.51",
+    "r2": "R\u00b2 = 0.0006",
+    "p": "p = 0.9090"
+  },
+  "railroad": {
+    "lat": 38.7813,
+    "lng": -76.7137,
+    "state": "MD",
+    "equation": "y = -0.0014x + 9.89",
+    "r2": "R\u00b2 = 0.0113",
+    "p": "p = 0.6210"
+  },
+  "iron pot landing": {
+    "lat": 38.796,
+    "lng": -76.7208,
+    "state": "MD",
+    "equation": "y = -0.0040x + 15.27",
+    "r2": "R\u00b2 = 0.1041",
+    "p": "p = 0.1241"
+  },
+  "otter point creek": {
+    "lat": 39.4507,
+    "lng": -76.2746,
+    "state": "MD",
+    "equation": "y = -0.0016x + 10.85",
+    "r2": "R\u00b2 = 0.0053",
+    "p": "p = 0.7365"
+  },
+  "mataponi creek": {
+    "lat": 38.7433,
+    "lng": -76.7074,
+    "state": "MD",
+    "equation": "y = 0.0054x - 4.26",
+    "r2": "R\u00b2 = 0.0894",
+    "p": "p = 0.1557"
+  },
+  "maryland overall": {
+    "lat": 38.74,
+    "lng": -76.22,
+    "state": "MD",
+    "equation": "y = -0.0004x + 7.94",
+    "r2": "R\u00b2 = 0.0008",
+    "p": "p = 0.8962"
+  },
+  "ship channel": {
+    "lat": 27.8383,
+    "lng": -97.0503,
+    "state": "TX",
+    "equation": "y = -0.0054x + 19.10",
+    "r2": "R\u00b2 = 0.5263",
+    "p": "p = 0.0033"
+  },
+  "copano bay west": {
+    "lat": 28.0841,
+    "lng": -97.2009,
+    "state": "TX",
+    "equation": "y = -0.0104x + 29.21",
+    "r2": "R\u00b2 = 0.3040",
+    "p": "p = 0.0117"
+  },
+  "mesquite bay": {
+    "lat": 28.1384,
+    "lng": -96.8285,
+    "state": "TX",
+    "equation": "y = -0.0092x + 26.71",
+    "r2": "R\u00b2 = 0.3992",
+    "p": "p = 0.0037"
+  },
+  "copano bay east": {
+    "lat": 28.1323,
+    "lng": -97.0344,
+    "state": "TX",
+    "equation": "y = -0.0093x + 26.94",
+    "r2": "R\u00b2 = 0.4226",
+    "p": "p = 0.0019"
+  },
+  "texas overall": {
+    "lat": 28.0,
+    "lng": -96.9,
+    "state": "TX",
+    "equation": "y = -0.0080x + 24.33",
+    "r2": "R\u00b2 = 0.4155",
+    "p": "p = 0.0039"
+  },
+  "aransas bay": {
+    "lat": 27.9798,
+    "lng": -97.0287,
+    "state": "TX",
+    "equation": "y = -0.0080x + 24.35",
+    "r2": "R\u00b2 = 0.5023",
+    "p": "p = 0.0007"
+  },
+  "zeke's basin": {
+    "lat": 33.9547,
+    "lng": -77.935,
+    "state": "NC",
+    "equation": "y = -0.0146x + 37.24",
+    "r2": "R\u00b2 = 0.2431",
+    "p": "p = 0.0144"
+  },
+  "research creek": {
+    "lat": 34.156,
+    "lng": -77.8499,
+    "state": "NC",
+    "equation": "y = -0.0027x + 13.34",
+    "r2": "R\u00b2 = 0.0375",
+    "p": "p = 0.2805"
+  },
+  "east cribbing": {
+    "lat": 33.9399,
+    "lng": -77.9411,
+    "state": "NC",
+    "equation": "y = -0.0088x + 25.61",
+    "r2": "R\u00b2 = 0.3030",
+    "p": "p = 0.0024"
+  },
+  "loosin creek": {
+    "lat": 34.1722,
+    "lng": -77.8328,
+    "state": "NC",
+    "equation": "y = -0.0067x + 21.54",
+    "r2": "R\u00b2 = 0.3546",
+    "p": "p = 0.0017"
+  },
+  "north carolina overall": {
+    "lat": 34.63,
+    "lng": -77.1,
+    "state": "NC",
+    "equation": "y = -0.0112x + 30.40",
+    "r2": "R\u00b2 = 0.3697",
+    "p": "p = 0.0016"
+  },
+  "winchester arm": {
+    "lat": 43.282417,
+    "lng": -124.320317,
+    "state": "OR",
+    "equation": "y = 0.0025x + 2.24",
+    "r2": "R\u00b2 = 0.0423",
+    "p": "p = 0.2669"
+  },
+  "charleston bridge": {
+    "lat": 43.3377,
+    "lng": -124.320533,
+    "state": "OR",
+    "equation": "y = -0.0091x + 26.38",
+    "r2": "R\u00b2 = 0.5344",
+    "p": "p < 0.0001"
+  },
+  "oregon overall": {
+    "lat": 43.33,
+    "lng": -124.32,
+    "state": "OR",
+    "equation": "y = -0.0053x + 18.31",
+    "r2": "R\u00b2 = 0.2610",
+    "p": "p = 0.0091"
+  },
+  "valino island": {
+    "lat": 43.317217,
+    "lng": -124.321633,
+    "state": "OR",
+    "equation": "y = -0.0060x + 20.03",
+    "r2": "R\u00b2 = 0.2481",
+    "p": "p = 0.0070"
+  },
+  "china camp": {
+    "lat": 38.0012,
+    "lng": -122.4604,
+    "state": "CA",
+    "equation": "y = -0.0053x + 18.45",
+    "r2": "R\u00b2 = 0.1413",
+    "p": "p = 0.0847"
+  },
+  "azevedo pond": {
+    "lat": 36.8457,
+    "lng": -121.7538,
+    "state": "CA",
+    "equation": "y = 0.0055x - 3.28",
+    "r2": "R\u00b2 = 0.0865",
+    "p": "p = 0.1023"
+  },
+  "gallinas creek": {
+    "lat": 38.0159,
+    "lng": -122.5085,
+    "state": "CA",
+    "equation": "y = 0.0022x + 3.33",
+    "r2": "R\u00b2 = 0.0122",
+    "p": "p = 0.6433"
+  },
+  "california overall": {
+    "lat": 37.95,
+    "lng": -122.35,
+    "state": "CA",
+    "equation": "y = -0.0048x + 17.45",
+    "r2": "R\u00b2 = 0.3575",
+    "p": "p = 0.0069"
+  },
+  "south marsh": {
+    "lat": 36.8179,
+    "lng": -121.7394,
+    "state": "CA",
+    "equation": "y = 0.0049x - 1.81",
+    "r2": "R\u00b2 = 0.1658",
+    "p": "p = 0.0207"
+  },
+  "boca rio": {
+    "lat": 32.5593611,
+    "lng": -117.1289722,
+    "state": "CA",
+    "equation": "y = -0.0152x + 38.54",
+    "r2": "R\u00b2 = 0.5498",
+    "p": "p < 0.0001"
+  },
+  "south bay": {
+    "lat": 32.601,
+    "lng": -117.1158333,
+    "state": "CA",
+    "equation": "y = 0.0025x + 2.98",
+    "r2": "R\u00b2 = 0.0529",
+    "p": "p = 0.3434"
+  },
+  "first mallard": {
+    "lat": 38.1949,
+    "lng": -122.0328,
+    "state": "CA",
+    "equation": "y = -0.0048x + 17.27",
+    "r2": "R\u00b2 = 0.3954",
+    "p": "p = 0.0039"
+  },
+  "north marsh": {
+    "lat": 36.8346,
+    "lng": -121.7384,
+    "state": "CA",
+    "equation": "y = 0.0032x + 1.69",
+    "r2": "R\u00b2 = 0.0584",
+    "p": "p = 0.2156"
+  },
+  "second mallard": {
+    "lat": 38.1841,
+    "lng": -122.0136,
+    "state": "CA",
+    "equation": "y = -0.0020x + 11.48",
+    "r2": "R\u00b2 = 0.0334",
+    "p": "p = 0.4542"
+  },
+  "vierra mouth": {
+    "lat": 36.8111,
+    "lng": -121.7792,
+    "state": "CA",
+    "equation": "y = -0.0048x + 17.75",
+    "r2": "R\u00b2 = 0.1655",
+    "p": "p = 0.0391"
+  },
+  "oneonta slough": {
+    "lat": 32.5683333,
+    "lng": -117.1312778,
+    "state": "CA",
+    "equation": "y = -0.0069x + 21.69",
+    "r2": "R\u00b2 = 0.3561",
+    "p": "p = 0.0004"
+  }
+}
