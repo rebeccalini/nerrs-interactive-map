@@ -313,9 +313,9 @@ function handleMarkerClick(siteName, isState, stats) {
         ? "Statewide aggregated visualization suite."
         : "Station-specific visualization suite.";
         
-    trendGraph.src = `assets/${safeName}_trend.png`;
-    boxGraph.src = `assets/${safeName}_box.png`;
-    barGraph.src = `assets/${safeName}_bar.png`;
+    trendGraph.src = `assets/${safeName}_trend.png?v=2`;
+    boxGraph.src = `assets/${safeName}_box.png?v=2`;
+    barGraph.src = `assets/${safeName}_bar.png?v=2`;
     
     if (stats.equation && stats.r2 && stats.equation !== "N/A") {
         trendStats.innerHTML = `${stats.equation} &nbsp;&nbsp;|&nbsp;&nbsp; ${stats.r2} &nbsp;&nbsp;|&nbsp;&nbsp; ${stats.p}`;
